@@ -7,4 +7,6 @@ app.innerHTML = `
   <a href="https://vitejs.dev/guide/features.html" target="_blank">Documentation</a>
   <p>This is the inner html of the vanilla site</p>
   <p>Pretty cool huh?</p>
+  <p>This is strange</p>
 `
+
